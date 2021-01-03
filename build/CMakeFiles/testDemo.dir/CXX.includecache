@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/publictool.h
+
+../include/studentachievement.h
+studentinformation.h
+../include/studentinformation.h
+
+../include/studentinformation.h
+string
+-
+publictool.h
+../include/publictool.h
+
+/home/stephen/demo/Student_Information_Management_System/main.cpp
+studentachievement.h
+/home/stephen/demo/Student_Information_Management_System/studentachievement.h
+iostream
+-
+
+/home/stephen/demo/Student_Information_Management_System/src/studentachievement.cpp
+studentachievement.h
+/home/stephen/demo/Student_Information_Management_System/src/studentachievement.h
+
+/home/stephen/demo/Student_Information_Management_System/src/studentinformation.cpp
+studentinformation.h
+/home/stephen/demo/Student_Information_Management_System/src/studentinformation.h
+

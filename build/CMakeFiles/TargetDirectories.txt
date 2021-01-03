@@ -1,0 +1,3 @@
+/home/stephen/demo/Student_Information_Management_System/build/CMakeFiles/edit_cache.dir
+/home/stephen/demo/Student_Information_Management_System/build/CMakeFiles/rebuild_cache.dir
+/home/stephen/demo/Student_Information_Management_System/build/CMakeFiles/testDemo.dir

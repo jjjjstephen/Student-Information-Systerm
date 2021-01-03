@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/testDemo.dir/main.cpp.o CMakeFiles/testDemo.dir/src/studentachievement.cpp.o CMakeFiles/testDemo.dir/src/studentinformation.cpp.o  -o testDemo -rdynamic 
